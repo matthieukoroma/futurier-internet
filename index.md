@@ -1,4 +1,4 @@
-## Bienvenue sur la page du projet de Futurier.es dédié à internet
+## Bienvenue sur la page du projet de Futurier.e.x dédié à internet
 
 
 ### L'armée et la technologie
