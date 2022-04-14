@@ -1,4 +1,4 @@
-## Bienvenue sur la page du projet de Futurier dédié à internet
+## Bienvenue sur la page du projet de Futurier.es dédié à internet
 
 
 ### L'armée et la technologie
@@ -24,7 +24,7 @@ armée aujourd’hui dans sa rhétorique finance des projets de ruptures technol
 retrouver les documents officiels mais aussi tracer comment les transformation d’internet a changé le type de documentation qu’on peut récupérer sur sa création et ses transformations
 -> quelles traces internet porte sur sa propre histoire ?
 
-### 
+### La communication et l'armée
 
 → thématique plus précise : la communication
 citer des exemples qui lient armée et communication. 
